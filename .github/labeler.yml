@@ -1,0 +1,20 @@
+apps:docs:
+  - changed-files:
+      - any-glob-to-any-file:
+          - apps/docs/*
+          - apps/docs/**/*
+apps:website:
+  - changed-files:
+      - any-glob-to-any-file:
+          - apps/website/*
+          - apps/website/**/*
+packages:adb.js:
+  - changed-files:
+      - any-glob-to-any-file:
+          - packages/adb.js/*
+          - packages/adb.js/**/*
+packages:create-adb:
+  - changed-files:
+      - any-glob-to-any-file:
+          - packages/create-adb/*
+          - packages/create-adb/**/*
