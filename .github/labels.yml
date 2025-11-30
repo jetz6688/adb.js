@@ -1,6 +1,28 @@
+- name: blocked
+  color: ee1519
+- name: bug
+  color: d73a4a
+- name: documentation
+  color: 0075ca
+- name: duplicate
+  color: cfd3d7
+- name: enhancement
+  color: a2eeef
+- name: good first issue
+  color: 7057ff
+- name: help wanted
+  color: '008672'
+- name: in review
+  color: B0D6F1
+- name: invalid
+  color: e4e669
+- name: question
+  color: d876e3
 - name: semver:major
   color: c10f47
 - name: semver:minor
   color: e4f486
 - name: semver:patch
   color: e8be8b
+- name: wontfix
+  color: ffffff
