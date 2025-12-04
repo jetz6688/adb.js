@@ -33,6 +33,7 @@
 		"outDir": "dist",
 		"removeComments": false,
 		"sourceMap": true,
+		"skipLibCheck": true,
 
 		// Interop Constraints
 		"allowSyntheticDefaultImports": true,

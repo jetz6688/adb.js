@@ -1,0 +1,7 @@
+{
+	"$schema": "./node_modules/@favware/cliff-jumper/assets/cliff-jumper.schema.json",
+	"name": "adb.js",
+	"org": "adbjs",
+	"packagePath": "packages/adb.js",
+	"identifierBase": false
+}

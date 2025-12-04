@@ -20,11 +20,7 @@
   color: B0D6F1
 - name: invalid
   color: e4e669
-- name: package:adb.js
-  color: fbca04
-- name: package:create-adb
-  color: fbca04
-- name: packages:test
+- name: packages:adb.js
   color: fbca04
 - name: question
   color: d876e3

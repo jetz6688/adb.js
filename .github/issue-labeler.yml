@@ -4,3 +4,6 @@ apps:docs:
 apps:website:
   - "### Which (application|package|application or package) is this (bug
     report|feature request) for\\?\\n\\nDocumentation\\n"
+packages:adb.js:
+  - "### Which (application|package|application or package) is this (bug
+    report|feature request) for\\?\\n\\nadb.js\\n"
