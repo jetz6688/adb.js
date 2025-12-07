@@ -43,8 +43,8 @@
 	},
 	"funding": "https://github.com/adbjs/adb.js?sponsor",
 	"devDependencies": {
-		"@commitlint/cli": "^20.1.0",
-		"@commitlint/config-angular": "^20.0.0",
+		"@commitlint/cli": "^20.2.0",
+		"@commitlint/config-angular": "^20.2.0",
 		"@favware/cliff-jumper": "^6.0.0",
 		"@types/lodash.merge": "^4.6.9",
 		"@unocss/eslint-plugin": "^66.5.10",
@@ -55,17 +55,17 @@
 		"is-ci": "^4.1.0",
 		"lint-staged": "^16.2.7",
 		"lodash.merge": "^4.6.2",
-		"prettier": "3.7.3",
+		"prettier": "^3.7.4",
 		"prettier-plugin-organize-imports": "^4.3.0",
 		"tsup": "^8.5.1",
-		"turbo": "^2.6.1",
+		"turbo": "^2.6.3",
 		"typescript": "~5.9.3",
 		"typescript-eslint": "^8.48.1",
 		"unocss": "^66.5.10",
-		"vitest": "3.2.4"
+		"vitest": "^3.2.4"
 	},
 	"engines": {
 		"node": ">=22.12.0"
 	},
-	"packageManager": "pnpm@10.20.0"
+	"packageManager": "pnpm@10.24.0"
 }
