@@ -15,7 +15,7 @@ runs:
         disable_search: true
         flags: adb.js
         token: ${{ inputs.CODECOV_TOKEN }}
-    
+
     - name: Upload Utilities Coverage
       if: ${{ hashFiles('packages/actions/coverage/cobertura-coverage.xml') != '' }}
       uses: codecov/codecov-action@v4
